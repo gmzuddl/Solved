@@ -23,11 +23,11 @@ public class Main{
 <details>
 <summary>CLASS 1</summary>
 <div markdown="1">
-#### [day01](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day01)
-#### [day02](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day02)
-#### [day03](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day03)
-#### [day04](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day04)
-#### [day05](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day05)
+  <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day01">day01</a>
+  <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day02">day02</a>
+  <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day03">day03</a>
+  <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day04">day04</a>
+  <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day05">day05</a>
 </div>
 </details> 
 
