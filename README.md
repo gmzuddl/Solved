@@ -1,6 +1,7 @@
 # Solved
 
-- #### 백준 사용방법:   
+- #### 백준 사용방법: 
+  
 ```java
 public class Main{
     public static void main(String[] args) {
@@ -17,13 +18,22 @@ public class Main{
   - Q문제번호_푼사람 ex) Q1000_thdqudgns
   - 문제번호가 앞에 있어야 문제별 분류가 된다.
 
-### [CLASS 1](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1) 
+---
+
+<details>
+<summary>CLASS 1</summary>
+<div markdown="1">
 #### [day01](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day01)
 #### [day02](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day02)
 #### [day03](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day03)
 #### [day04](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day04)
 #### [day05](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day05)
-### [CLASS 2](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2)   
+</div>
+</details> 
+
+<details>
+<summary>CLASS 2</summary>
+<div markdown="1">
 #### [day01](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day01)
 #### [day02](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day02)
 #### [day03](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day03)
@@ -34,7 +44,12 @@ public class Main{
 #### [day08](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day08)
 #### [day09](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day09)
 #### [day10](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day10)
-### [CLASS 3](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3)   
+</div>
+</details>   
+
+<details>
+<summary>CLASS 3</summary>
+<div markdown="1">
 #### [day01](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day01)
 #### [day02](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day02)
 #### [day03](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day03)
@@ -51,3 +66,6 @@ public class Main{
 #### [day14](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day14)
 #### [day15](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day15)
 #### [day16](https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day16)
+</div>
+</details>  
+
