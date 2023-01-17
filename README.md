@@ -24,11 +24,11 @@ public class Main{
 <summary>CLASS 1</summary>
 <div markdown="1">
   <ul>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day01"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day01</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day02"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day02</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day03"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day03</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day04"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day04</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day05"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day05</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day01"><strong>day01</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day02"><strong>day02</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day03"><strong>day03</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day04"><strong>day04</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day05"><strong>day05</strong></a></li>
   </ul>
 </div>
 </details> 
@@ -37,16 +37,16 @@ public class Main{
 <summary>CLASS 2</summary>
 <div markdown="1">
   <ul>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day01"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day01</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day02"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day02</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day03"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day03</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day04"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day04</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day05"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day05</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day06"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day06</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day07"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day07</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day08"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day08</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day09"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day09</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day10"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day10</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day01"><strong>day01</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day02"><strong>day02</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day03"><strong>day03</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day04"><strong>day04</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day05"><strong>day05</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day06"><strong>day06</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day07"><strong>day07</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day08"><strong>day08</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day09"><strong>day09</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day10"><strong>day10</strong></a></li>
   </ul>
 </div>
 </details>   
@@ -55,22 +55,22 @@ public class Main{
 <summary>CLASS 3</summary>
 <div markdown="1">
   <ul>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day01"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day01</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day02"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day02</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day03"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day03</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day04"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day04</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day05"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day05</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day06"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day06</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day07"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day07</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day08"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day08</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day09"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day09</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day10"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day10</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day11"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day11</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day12"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day12</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day13"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day13</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day14"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day14</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day15"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day15</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day16"><strong>&nbsp;&nbsp;&nbsp;&nbsp;day16</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day01"><strong>day01</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day02"><strong>day02</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day03"><strong>day03</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day04"><strong>day04</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day05"><strong>day05</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day06"><strong>day06</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day07"><strong>day07</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day08"><strong>day08</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day09"><strong>day09</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day10"><strong>day10</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day11"><strong>day11</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day12"><strong>day12</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day13"><strong>day13</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day14"><strong>day14</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day15"><strong>day15</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day16"><strong>day16</strong></a></li>
   </ul>
 </div>
 </details>  
