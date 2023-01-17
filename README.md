@@ -50,6 +50,7 @@ public class Main{
 <details>
 <summary>CLASS 3</summary>
 <div markdown="1">
+  <div>
   <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day01">day01</a><br>
   <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day02">day02</a><br>
   <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day03">day03</a><br>
@@ -66,6 +67,7 @@ public class Main{
   <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day14">day14</a><br>
   <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day15">day15</a><br>
   <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class3/day16">day16</a><br>
+  </div>
 </div>
 </details>  
 
