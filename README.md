@@ -30,6 +30,10 @@ public class Main{
   <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class1/day05">day05</a><br>
 </div>
 </details> 
+
+<details>
+<summary>CLASS 2</summary>
+<div markdown="1">
   <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day01">day01</a><br>
   <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day02">day02</a><br>
   <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day03">day03</a><br>
@@ -40,10 +44,6 @@ public class Main{
   <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day08">day08</a><br>
   <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day09">day09</a><br>
   <a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/class2/day10">day10</a><br>
-<details>
-<summary>CLASS 2</summary>
-<div markdown="1">
-
 </div>
 </details>   
 
